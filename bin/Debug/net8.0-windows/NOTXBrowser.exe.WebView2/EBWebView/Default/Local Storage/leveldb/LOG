@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/11/21-22:30:27.164 2128 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
 2026/11/21-22:30:27.166 2128 Recovering log #4
 2026/11/21-22:30:27.169 2128 Reusing old log C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/000004.log 
+=======
+2026/11/20-18:03:13.140 11e0 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
+2026/11/20-18:03:13.164 11e0 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

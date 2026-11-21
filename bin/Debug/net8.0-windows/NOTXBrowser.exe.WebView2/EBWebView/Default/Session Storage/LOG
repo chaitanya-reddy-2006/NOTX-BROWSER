@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 2026/11/21-22:30:27.716 2128 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Session Storage since it was missing.
 2026/11/21-22:30:27.733 2128 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+=======
+2026/11/20-18:03:13.674 11e0 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Session Storage since it was missing.
+2026/11/20-18:03:13.692 11e0 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Session Storage/MANIFEST-000001
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

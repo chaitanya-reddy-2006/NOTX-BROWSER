@@ -1,5 +1,6 @@
 # NOTX Browser
 
+<<<<<<< HEAD
 A Windows desktop browser built with C#, WPF and Microsoft Edge WebView2. This edition adds a custom NOTX brand mark, a refreshed dark interface, built-in request filtering, pop-up controls and browser essentials.
 
 ## Features
@@ -13,11 +14,15 @@ A Windows desktop browser built with C#, WPF and Microsoft Edge WebView2. This e
 - Independent ON/OFF controls for ad blocking and pop-up blocking
 - Keyboard shortcuts: Ctrl+L address bar, Ctrl+T new tab, Ctrl+W close tab, Ctrl+D bookmark, Ctrl+H history, Ctrl+J downloads, F5 reload
 - Data stored locally under `%LOCALAPPDATA%\NOTXBrowser`
+=======
+A lightweight Windows desktop browser shell built with C#, WPF and Microsoft Edge WebView2.
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b
 
 ## Requirements
 
 - Windows 10/11
 - .NET 8 SDK
+<<<<<<< HEAD
 - Microsoft Edge WebView2 Runtime
 
 ## Run
@@ -30,11 +35,28 @@ dotnet run
 ```
 
 ## Publish
+=======
+- Microsoft Edge WebView2 Runtime (usually present on Windows 11)
+
+## Run it
+
+1. Install the .NET 8 SDK: https://dotnet.microsoft.com/download/dotnet/8.0
+2. Open PowerShell in this folder.
+3. Run:
+
+   ```powershell
+   dotnet restore
+   dotnet run
+   ```
+
+## Build a release
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b
 
 ```powershell
 dotnet publish -c Release -r win-x64 --self-contained false
 ```
 
+<<<<<<< HEAD
 The publish output is under `bin\Release\net8.0-windows\win-x64\publish\`.
 
 ## Ad-blocking and privacy notes
@@ -44,3 +66,21 @@ The built-in blocker uses a small bundled list of common advertising domains and
 The pop-up control blocks WebView2 new-window requests. It does not guarantee suppression of every in-page modal or notification prompt. History and bookmarks are stored locally; this build does not yet provide a dedicated private/incognito profile or synchronisation.
 
 Downloads are handled by WebView2 using its normal download destination. The downloads panel tracks activity and can open completed files when the saved path is available.
+=======
+The published application will be under `bin\\Release\\net8.0-windows\\win-x64\\publish\\`.
+
+## Shortcuts
+
+- Ctrl + L: focus address bar
+- Ctrl + T: new tab
+- Ctrl + W: close current tab (when more than one tab is open)
+- F5: reload page
+- Enter: navigate/search
+
+## Notes
+
+- Google is the default home page and search provider.
+- Website rendering is provided by the installed Microsoft Edge WebView2 Runtime.
+- This is a starter browser. It does not yet include bookmarks, a downloads manager, ad blocking, or private-browsing controls.
+- WebView2 Runtime is a separate Microsoft component and may need installation on some PCs.
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

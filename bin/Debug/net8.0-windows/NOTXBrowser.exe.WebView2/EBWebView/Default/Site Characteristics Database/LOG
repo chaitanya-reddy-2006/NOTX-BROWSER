@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/11/21-22:30:27.041 4f0c Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
 2026/11/21-22:30:27.042 4f0c Recovering log #3
 2026/11/21-22:30:27.042 4f0c Reusing old log C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Site Characteristics Database/000003.log 
+=======
+2026/11/20-18:03:12.993 3dfc Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Site Characteristics Database since it was missing.
+2026/11/20-18:03:13.021 3dfc Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Site Characteristics Database/MANIFEST-000001
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

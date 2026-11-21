@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/11/21-22:30:27.062 4214 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
 2026/11/21-22:30:27.063 4214 Recovering log #3
 2026/11/21-22:30:27.063 4214 Reusing old log C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/000003.log 
+=======
+2026/11/20-18:03:13.037 36f0 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\shared_proto_db\metadata since it was missing.
+2026/11/20-18:03:13.064 36f0 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\shared_proto_db\metadata/MANIFEST-000001
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

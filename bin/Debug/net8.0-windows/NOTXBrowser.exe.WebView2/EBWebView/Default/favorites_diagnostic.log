@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026-11-21 16:54:40.256: [INFO] CurrentProfilePath: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
 2026-11-21 16:54:40.256: [INFO] Profiles total count: 1
 2026-11-21 16:54:40.256: [INFO] Profile: name=Profile 1 path=C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default lastActive=null
@@ -17,3 +18,14 @@
 2026-11-21 17:00:27.058: [INFO] BookmarksLoadDropped droppedNodes=0
 2026-11-21 17:00:27.058: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
 2026-11-21 17:00:35.826: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+=======
+2026-11-20 12:33:12.999: [INFO] CurrentProfilePath: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-20 12:33:12.999: [INFO] Profiles total count: 1
+2026-11-20 12:33:12.999: [INFO] Profile: name=Profile 1 path=C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default lastActive=null
+2026-11-20 12:33:12.999: [INFO] LastUsedProfileDir: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-20 12:33:12.999: [INFO] OnDoneLoading sync enabled: 0
+2026-11-20 12:33:12.999: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-20 12:33:12.999: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-20 12:33:12.999: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-20 12:34:35.144: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b

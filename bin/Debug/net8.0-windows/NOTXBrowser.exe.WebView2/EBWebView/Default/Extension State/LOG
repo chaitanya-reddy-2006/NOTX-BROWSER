@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/11/21-22:30:27.109 5ea8 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Extension State/MANIFEST-000001
 2026/11/21-22:30:27.109 5ea8 Recovering log #3
 2026/11/21-22:30:27.110 5ea8 Reusing old log C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Extension State/000003.log 
+=======
+2026/11/20-18:03:13.113 1e50 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Extension State since it was missing.
+2026/11/20-18:03:13.135 1e50 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Extension State/MANIFEST-000001
+>>>>>>> f602212ead5a32b742440f808b1ebf3f1a46039b
