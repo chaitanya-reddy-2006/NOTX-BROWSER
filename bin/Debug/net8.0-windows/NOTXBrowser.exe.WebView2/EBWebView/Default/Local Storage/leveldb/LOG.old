@@ -1,0 +1,5 @@
+2026/11/21-22:24:40.323 2340 Creating DB C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb since it was missing.
+2026/11/21-22:24:40.354 2340 Reusing MANIFEST C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default\Local Storage\leveldb/MANIFEST-000001
+2026/11/21-22:25:38.873 bf0 Level-0 table #5: started
+2026/11/21-22:25:38.880 bf0 Level-0 table #5: 49764 bytes OK
+2026/11/21-22:25:38.883 bf0 Delete type=0 #3

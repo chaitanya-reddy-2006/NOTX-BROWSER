@@ -1,0 +1,19 @@
+2026-11-21 16:54:40.256: [INFO] CurrentProfilePath: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-21 16:54:40.256: [INFO] Profiles total count: 1
+2026-11-21 16:54:40.256: [INFO] Profile: name=Profile 1 path=C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default lastActive=null
+2026-11-21 16:54:40.256: [INFO] LastUsedProfileDir: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-21 16:54:40.256: [INFO] OnDoneLoading sync enabled: 0
+2026-11-21 16:54:40.256: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-21 16:54:40.256: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-21 16:54:40.256: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-21 16:56:32.749: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-21 17:00:27.058: [INFO] CurrentProfilePath: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-21 17:00:27.058: [INFO] Profiles total count: 1
+2026-11-21 17:00:27.058: [INFO] Profile: name=Profile 1 path=C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default lastActive=2026-11-21T16:55:45.699Z
+2026-11-21 17:00:27.058: [INFO] LastUsedProfileDir: C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default
+2026-11-21 17:00:27.058: [INFO] MostRecentlyActiveProfile: name=Profile 1 path=C:\Users\dell\Downloads\NOTX_Browser\bin\Debug\net8.0-windows\NOTXBrowser.exe.WebView2\EBWebView\Default lastActive=2026-11-21T16:55:45.699Z
+2026-11-21 17:00:27.058: [INFO] OnDoneLoading sync enabled: 0
+2026-11-21 17:00:27.058: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-11-21 17:00:27.058: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-11-21 17:00:27.058: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-11-21 17:00:35.826: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
